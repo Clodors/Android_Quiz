@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Android_Quiz</string>
+    <string name="Question_1">What was the name of the first device that worked with the Android operating system?</string>
+    <string name="Question_2">What was the name of the first tablet that ran with Google\'s Android Donut 1.6?</string>
+    <string name="Question_3">Which was the first version of Android that could be used together for Mobile Phone and Android Tablet?</string>
+    <string name="Question_4">How many Android versions has Google released since 2008?</string>
+    <string name="Question_5">How big was the Android Market Share 2016 Worldwide?</string>
+    <string name="Question_6">Which of these devices support Android?</string>
+    <string name="Question_7">In October 2016, the Nexus product line was discontinued. By which successor series was it replaced?</string>
+    <string name="Question_8">What\'s the latest version of Android?</string>
+    <string name="Question_9">In which countries is the operating system Android mostly used?</string>
+    <string name="Username">Username</string>
+    <string name="name">Name</string>
+    <string name="name_field">name</string>
+</resources>
